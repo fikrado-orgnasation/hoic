@@ -1,5 +1,6 @@
+# High Orbit Ion Cannon (HIOC) :stalite:
 <img src="https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/hoic.png.webp">
-High Orbit Ion Cannon (HIOC)
+
 AppSec, Attack Tools, DDoS
 36.5k views
 What is High Orbit Ion Cannon (HOIC)
