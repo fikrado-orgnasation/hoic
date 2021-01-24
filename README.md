@@ -1,4 +1,4 @@
-# High Orbit Ion Cannon (HIOC) :stalite:
+# High Orbit Ion Cannon (HIOC) :robot:
 <img src="https://www.imperva.com/learn/wp-content/uploads/sites/13/2019/01/hoic.png.webp">
 
 AppSec, Attack Tools, DDoS
